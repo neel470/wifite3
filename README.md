@@ -45,7 +45,7 @@ sudo apt update && sudo apt install -y \
 
 ```bash
 # Clone & make executable
-git clone https://github.com/neel470/Wifi-acctack.git
+git clone https://github.com/neel470/wifite3.git
 cd wifite3
 chmod +x wifite3.py
 
